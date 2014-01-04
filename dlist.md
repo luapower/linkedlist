@@ -1,6 +1,7 @@
 ---
-project: dlist
-tagline: doubly linked lists
+project:     dlist
+tagline:     doubly linked lists
+category:    Language
 ---
 
 v1.0 | Lua 5.1, Lua 5.2, LuaJIT 2

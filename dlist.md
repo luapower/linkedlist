@@ -4,8 +4,6 @@ tagline:     doubly linked lists
 category:    Language
 ---
 
-v1.0 | Lua 5.1, Lua 5.2, LuaJIT 2
-
 ## `local dlist = require'dlist'`
 
 Doubly linked lists in Lua. Doubly linked lists make insert, remove and move operations fast,

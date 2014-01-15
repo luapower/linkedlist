@@ -1,7 +1,6 @@
 ---
 project:     dlist
 tagline:     doubly linked lists
-category:    Language
 ---
 
 ## `local dlist = require'dlist'`

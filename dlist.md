@@ -1,6 +1,6 @@
 ---
-project:     dlist
-tagline:     doubly linked lists
+project: dlist
+tagline: doubly linked lists
 ---
 
 ## `local dlist = require'dlist'`

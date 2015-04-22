@@ -1,5 +1,7 @@
---doubly linked list by Cosmin Apreutesei (public domain).
---dlists make insert, remove and move operations fast, and access by index slow.
+
+--doubly linked lists: dlists make insert, remove and move operations fast,
+--and access by index slow.
+--Written by Cosmin Apreutesei. Public Domain.
 
 local list = {}
 list.__index = list

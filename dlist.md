@@ -1,5 +1,4 @@
 ---
-project: dlist
 tagline: doubly linked lists
 ---
 

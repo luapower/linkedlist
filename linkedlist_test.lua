@@ -1,5 +1,5 @@
 
-local dlist = require'dlist'
+local dlist = require'linkedlist'
 
 local list = dlist()
 

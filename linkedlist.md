@@ -2,7 +2,7 @@
 tagline: doubly linked lists in Lua
 ---
 
-## `local dlist = require'dlist'`
+## `local list = require'linkedlist'`
 
 Doubly linked lists in Lua. Doubly linked lists make insert, remove and move operations fast,
 and access by index slow. In this particular implementation items must be Lua tables for which
@@ -11,7 +11,7 @@ fields `_prev` and `_next` must be reserved for linking.
 ## API
 
 ---------------------------------------------- ----------------------------------------------
-`dlist() -> list`                              create a new list
+`list() -> list`                               create a new list
 `list:clear()`                                 clear the list
 `list:insert_first(t)`                         add an item at beginning of the list
 `list:insert_last(t)`                          add an item at the end of the list

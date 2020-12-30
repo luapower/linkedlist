@@ -2,7 +2,7 @@
 --Doubly-linked lists in Lua.
 --Written by Cosmin Apreutesei. Public Domain.
 
-if not ... then require'dlist_test'; return end
+if not ... then require'linkedlist_test'; return end
 
 local list = {}
 list.__index = list
